@@ -1,0 +1,9 @@
+{
+"name":"Ryan Noble Blog",
+"short_name":"Blog",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#111111",
+"icons":[]
+}
